@@ -1,1 +1,1 @@
-# All-programme
+This project is based on the computation of Waiting Time , Average Waiting Time with user input burst time and priority. The code is implemented in c language . The code is implementation of round robin using priority . I have used both the round robin scheduling and priority scheduling concept to implement it.
